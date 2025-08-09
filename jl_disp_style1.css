@@ -1,0 +1,148 @@
+/* CSS Document For Zangyo Management */
+
+.body_plane {
+	/* background-color: white; */
+	background-color: #FFF99D;
+          }
+
+/*
+.body_top {
+	background-image: url(../images/bgpic4.jpg);
+	background-repeat: repeat;
+          }
+
+.body_1 {
+	background-color: #FFB2D8;#ffd2ff;#FFF99D;#F7E2BD
+          }
+*/
+
+.font_mini8 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 8pt;
+}
+
+.font_mini9 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 9pt;
+}
+
+.font_mini10 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 10pt;
+}
+
+.font_mini10ul {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 10pt;
+    border-bottom: solid 1px #000000;
+}
+
+.title1 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: normal;
+	font-size: 14px;
+}
+
+.text1 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	color: black;
+	font-size: 14px;
+}
+
+.text2 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	color: red;
+	font-size: 14px;
+}
+
+  .cell_all {border-width : 1px 1px 1px 1px;
+           border-style : solid solid solid solid;
+           border-color : black black black black;
+           /* background-color : white; */
+           color : black;
+          }
+
+  .cell_trb {border-top-width : 1px;
+            border-right-width : 1px;
+            border-bottom-width : 1px;
+            border-top-style : solid;
+            border-right-style : solid;
+		    border-bottom-style : solid;
+            border-top-color : black;
+            border-right-color : black;
+		    border-bottom-color : black;
+		    /* background-color : white; */
+		    color : black;
+		   }
+
+
+  .cell_lrb {border-left-width : 1px;
+             border-right-width : 1px;
+             border-bottom-width : 1px;
+             border-left-style : solid;
+             border-right-style : solid;
+		     border-bottom-style : solid;
+		     border-left-color : black;
+             border-right-color : black;
+		     border-bottom-color : black;
+		     /* background-color : white; */
+		     color : black;
+		    }
+
+
+  .cell_rb {border-right-width : 1px;
+            border-bottom-width : 1px;
+            border-right-style : solid;
+		    border-bottom-style : solid;
+            border-right-color : black;
+		    border-bottom-color : black;
+		    /* background-color : white; */
+		    color : black;
+           }
+
+  .cell_b {border-bottom-width : 1px;
+           border-bottom-style : solid;
+           border-bottom-color : black;
+		   /* background-color : white; */
+		   color : black;
+          }
+
+  .margin_left5 {margin-left: 5px;}
+  .padding_left5 {padding-left: 5px;}
+
+.row_white {
+	background-color: white;
+          }
+
+.row_yellow {
+	background-color: yellow;
+          }
+
+.row_green {
+	background-color: lightgreen;
+          }
+
+.row_red {
+	background-color: red;
+          }
+
+.row_header {
+	background-color: C8FFFF;
+          }
+
+.row_sunday {
+	background-color: #FFCCCC;
+          }
+
+.row_saturday {
+	background-color: #CCE3FF;
+          }
+

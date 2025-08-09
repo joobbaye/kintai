@@ -1,0 +1,144 @@
+/* CSS Document */
+
+.body_top {
+	background-image: url(../images/bgpic1.jpg);
+          }
+
+.body_left {  
+	background-image:  url("../images/bgpic2.jpg");
+	background-repeat: repeat;
+          }
+
+.body_plane {   
+	background-image:  url("../images/bgpic3.jpg");
+	background-repeat: repeat;
+          }
+
+.body_right {
+	background-image:  url("../images/bgpic3.jpg");
+	background-repeat: repeat;
+          }
+
+.title1 {
+	font-family: "ÇlÇr Çoñæí©", "ç◊ñæí©ëÃ", "ÉqÉâÉMÉmñæí© Pro W3";
+	font-weight: bold;
+	font-style: italic;
+	font-size: large;
+	color: #CC0000;
+}
+
+.title2 {color: #CC0099}
+
+/* left flame button */
+  .button1  {
+	width:6cm;
+	font-size:16px;
+	font-family:Arial;
+	font-weight:400;
+	color:white;
+	cursor:hand;
+	border: thin none;
+	margin: 0px;
+	height: 20px;
+           }
+/*
+  .button1  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:white;
+			 background-color:#3333FF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }
+*/
+  .button1_on  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:#003399;
+			 background-color:#00FFFF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }
+  .button2  {
+	width:6cm;
+	font-size:16px;
+	font-family:Arial;
+	font-weight:400;
+	color:white;
+	cursor:hand;
+	border: thin none;
+	margin: 0px;
+	height: 20px;
+           }
+/*
+  .button2  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:white;
+			 background-color:#3333FF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }
+*/
+  .button2_on  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:#003399;
+			 background-color:#00FFFF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }
+		   
+  .button3  {
+	width:6cm;
+	font-size:16px;
+	font-family:Arial;
+	font-weight:400;
+	color:white;
+	cursor:hand;
+	border: thin none;
+	margin: 0px;
+	height: 20px;
+           }
+/*
+  .button3  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:white;
+			 background-color:#3333FF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }
+*/
+  .button3_on  {  width:6cm;
+             font-size:16px;
+             font-family:Arial;font-weight:400;
+			 color:#003399;
+			 background-color:#00FFFF;
+			 border-top:thin solid white;
+			 border-left:thin solid white;
+			 border-right:thin solid gray;
+			 border-bottom:thin solid gray;
+			 margin-left:0px;
+			 cursor:hand;
+           }

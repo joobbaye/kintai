@@ -1,0 +1,92 @@
+/* CSS Document For Zangyo Management */
+
+.body_plane {
+	/* background-color: white; */
+	background-color: #FFF99D;
+          }
+
+/*
+.body_top {
+	background-image: url(../images/bgpic4.jpg);
+	background-repeat: repeat;
+          }
+
+.body_1 {
+	background-color: #FFB2D8;#ffd2ff;#FFF99D;#F7E2BD
+          }
+*/
+
+
+.title1 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: bold;
+	font-style: italic;
+	font-size: large;
+	color: #CC0000;
+}
+
+.title2 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	font-weight: bold;
+	/* font-style: italic; */
+	font-size: 18px;
+	color: #CC0000;
+}
+
+.text1 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	color: black;
+	font-size: 14px;
+}
+
+.text2 {
+	font-family: "‚l‚r ‚o–¾’©", "×–¾’©‘Ì", "ƒqƒ‰ƒMƒm–¾’© Pro W3";
+	color: red;
+	font-size: 14px;
+}
+
+  .cell_top {border-width : 1px 1px 1px 1px;
+             border-style : solid solid solid solid;
+             border-color : black black black black;
+             /* background-color : white; */
+             color : black;
+            }
+
+
+  .cell_left {border-right-width : 1px;
+             border-bottom-width : 1px;
+             border-left-width : 1px;
+             border-right-style : solid;
+			 border-bottom-style : solid;
+			 border-left-style : solid;
+             border-right-color : black;
+			 border-bottom-color : black;
+			 border-left-color : black;
+			 /* background-color : white; */
+			 color : black;
+			 }
+  .cell_right {border-right-width : 1px;border-bottom-width : 1px;
+             border-right-style : solid;
+			 border-bottom-style : solid;
+             border-right-color : black;
+			 border-bottom-color : black;
+			 /* background-color : white; */
+			 color : black;
+			 }
+
+.row_white {
+	background-color: white;
+          }
+
+.row_yellow {
+	background-color: yellow;
+          }
+
+.row_green {
+	background-color: lightgreen;
+          }
+
+.row_red {
+	background-color: red;
+          }
+

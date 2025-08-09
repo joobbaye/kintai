@@ -1,0 +1,69 @@
+/* CSS Document 2 */
+
+.kkTable {
+	background-color: #ffffff;
+	border-collapse: collapse;
+}
+
+.kkTable th {
+	font-family: Verdana, Helvetica;
+	font-size: 14px;
+	color: black;
+	border: 1px solid white;
+	margin: 5px;
+	padding: 5px;
+}
+
+.kkTable td {
+	font-family: Verdana, Helvetica;
+	font-size: 14px;
+	color: black;
+	border: 0px solid black;
+	margin: 5px;
+	padding: 5px;
+}
+
+.kkTable td.lt_line {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.kkTable td.tr_line {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.kkTable td.ltb_line {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.kkTable td.ltrb_line {
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+
+.kkTable td.l_erase {
+	border-left: 1px solid black;
+}
+
+.kkTable td.lr_erase {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.kkTable td.lt_erase {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.kkTable td.ltr_erase {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
